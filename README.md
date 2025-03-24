@@ -17,6 +17,7 @@ Cargo Tom is a modern logistics and shipping website designed to showcase variou
 ├── index.html   # Main HTML file
 ├── index.css    # Styles and animations
 ├── index.js     # JavaScript functionality
+├── SRC/         # Source File(Images) 
 ```
 
 ## Technologies Used
