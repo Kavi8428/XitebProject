@@ -29,6 +29,7 @@ Cargo Tom is a modern logistics and shipping website designed to showcase variou
 1. Download or clone the repository.
 2. Open `index.html` in a browser.
 3. Ensure that `index.css` and `index.js` are in the same directory for full functionality.
+4. Ensure that `SRC Directory` is in the same directory for full functionality.
 
 ## How It Works
 - The **Hero Section** contains a main header with a service description and pagination for slides.
